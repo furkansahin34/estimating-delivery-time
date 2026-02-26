@@ -246,8 +246,5 @@ cat("McFadden Pseudo R2:", pseudo_r2)
 
 Model anlamlı ve açıklayıcıdır.
 
-``` r
-cat(summary(model_nb))
-```
 
 s displayed.
